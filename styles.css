@@ -163,6 +163,7 @@ input{
     font-size: 1.3em;
 }
 .projects{
+    padding-left: 20px;
     padding-bottom: 10px;
 }
 .announcements{
